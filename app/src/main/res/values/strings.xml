@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My AnimeDB</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="setting">Setting</string>
+
+    <string name="poster">Poster</string>
+    <string name="title_movie">Title</string>
+    <string name="releaseDate">ReleaseDate</string>
+    <string name="rating">Rating</string>
+    <string name="synopsis">Overview</string>
+    <string name="ErrorLoading">An Error In Loading Data</string>
+    <string name="Loading">Try To Get Data</string>
+    <string name="Overview">No Overview Data Yet</string>
+</resources>

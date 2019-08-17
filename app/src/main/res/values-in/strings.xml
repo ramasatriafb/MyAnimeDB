@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My AnimeDB</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="setting">Pengaturan</string>
+
+    <string name="poster">Poster</string>
+    <string name="title_movie">Judul</string>
+    <string name="releaseDate">Tanggal Rilis</string>
+    <string name="rating">Penilaian</string>
+    <string name="synopsis">Ringkasan</string>
+    <string name="ErrorLoading">Terjadi Kesalahan Dalam Memuat Data</string>
+    <string name="Loading">Mencoba Mendapatkan Data</string>
+    <string name="Overview">Belum Terdapat Data Sinopsis</string>
+</resources>
